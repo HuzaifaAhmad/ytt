@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Your Trusted Translations</title>
-    <link>https://huzaifaahmad.github.io/bookshelf/index.xml</link>
+    <link>https://huzaifaahmad.github.io/ytt/index.xml</link>
     <description>Recent content on Your Trusted Translations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://huzaifaahmad.github.io/bookshelf/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://huzaifaahmad.github.io/ytt/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
