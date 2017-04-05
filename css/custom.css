@@ -1,10 +1,26 @@
 .portfolio-item {
-  width: 100%
+  width: 100%;
 }
 
 .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
-    width: 100%;
-  }
+    width: 100px;
+    height: 100px;
+    margin: -40px;
+}
+@media (min-width: 992px){
+.navbar-brand>img {
+    height: 100px;
+    margin: -40px;
+}
+}
+
+@media (min-width: 768px){
+.navbar-brand>img {
+    height: 100px;
+    margin: -40px;
+}
+}
+
 
 #portfolio .portfolio-item .portfolio-link {
     max-width: none;
@@ -59,6 +75,8 @@ ul {
   margin: 0 auto;
   text-align: center;
   padding: 0px;
+  border-left: 5px;
+  border-right: 5px;
 }
 
 .lang3 {
@@ -69,4 +87,28 @@ ul {
   margin: 0 auto;
   text-align: center;
   padding: 0px;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    width: inherit;
+    height: inherit;
+    margin: inherit;
+}
+
+@media (max-width: 767px){
+  header .intro-text .intro-heading {
+    font-size: 25px;
+  }
+  .lang1 {
+    font-size: 20px;
+  }
+
+  .lang2 {
+    font-size: 20px;
+  }
+
+  .lang3 {
+    font-size: 20px;
+  }
+
 }
