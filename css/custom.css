@@ -130,3 +130,8 @@ a {
 .navbar-default .navbar-nav>.active>a {
     background-color: #ff9900;
 }
+
+.navbar-default .navbar-toggle {
+    border-color: #ff9900;
+    background-color: #ff9900;
+}
