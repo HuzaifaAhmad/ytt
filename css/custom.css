@@ -108,3 +108,25 @@ ul {
 section {
     padding: 100px 0px 0px 0px;
 }
+
+.btn-xl{
+  background-color: #ff9900;
+  border-color: #ff9900;
+
+}
+
+.text-primary {
+  color: #ff9900;
+}
+
+a {
+  color: #ff9900;
+}
+
+.navbar-default .nav li a:hover, .navbar-default .nav li a:focus {
+    color: #ff9900;
+}
+
+.navbar-default .navbar-nav>.active>a {
+    background-color: #ff9900;
+}
