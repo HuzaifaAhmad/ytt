@@ -1,0 +1,137 @@
+.portfolio-item {
+  width: 100%;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    width: 100px;
+    height: 100px;
+    margin: -40px;
+}
+@media (min-width: 992px){
+.navbar-brand>img {
+    height: 100px;
+    margin: -40px;
+}
+}
+
+@media (min-width: 768px){
+.navbar-brand>img {
+    height: 100px;
+    margin: -40px;
+}
+}
+
+
+#portfolio .portfolio-item .portfolio-link {
+    max-width: none;
+}
+
+
+.timeline>li .timeline-panel {
+    text-align: center;
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+section h3.section-subheading {
+  margin-bottom: 30px;
+}
+
+.row.lang {
+  position: relative;
+  font-size: 30px;
+  margin-bottom: 150px;
+}
+
+ul {
+  list-style:none;
+}
+
+.lang1 {
+    float: left;
+    width: 33.33%;
+    position: absolute;
+    left: 0%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0px;
+}
+
+.lang2 {
+  float: left;
+  width: 33.33%;
+  position: absolute;
+  left: 33.33%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 0px;
+  border-style: solid;
+  border-width: 0px 2px;
+  border-color: #c7c7c7;
+}
+
+.lang3 {
+  float: left;
+  width: 33.33%;
+  position: absolute;
+  left: 66.66%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 0px;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    width: inherit;
+    height: inherit;
+    margin: inherit;
+}
+
+@media (max-width: 767px){
+  header .intro-text .intro-heading {
+    font-size: 25px;
+  }
+  .lang1 {
+    font-size: 20px;
+  }
+
+  .lang2 {
+    font-size: 20px;
+  }
+
+  .lang3 {
+    font-size: 20px;
+  }
+
+}
+
+section {
+    padding: 100px 0px 0px 0px;
+}
+
+.btn-xl{
+  background-color: #ff9900;
+  border-color: #ff9900;
+
+}
+
+.text-primary {
+  color: #ff9900;
+}
+
+a {
+  color: #ff9900;
+}
+
+.navbar-default .nav li a:hover, .navbar-default .nav li a:focus {
+    color: #ff9900;
+}
+
+.navbar-default .navbar-nav>.active>a {
+    background-color: #ff9900;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #ff9900;
+    background-color: #ff9900;
+}
