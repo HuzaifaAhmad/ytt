@@ -135,3 +135,11 @@ a {
     border-color: #ff9900;
     background-color: #ff9900;
 }
+
+element.style {
+}
+
+
+section#contact {
+    padding-bottom: 100px;
+}
