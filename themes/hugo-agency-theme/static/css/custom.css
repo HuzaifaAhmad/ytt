@@ -21,6 +21,9 @@
 }
 }
 
+section#lang {
+  height: 670px;
+}
 
 #portfolio .portfolio-item .portfolio-link {
     max-width: none;
@@ -146,8 +149,4 @@ element.style {
 
 section#contact {
     padding-bottom: 100px;
-}
-
-section#lang {
-  height: 670px;
 }
