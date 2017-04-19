@@ -103,6 +103,10 @@ ul {
     font-size: 20px;
   }
 
+  section#lang {
+    height: 500px;
+  }
+
 }
 
 section {
@@ -142,4 +146,8 @@ element.style {
 
 section#contact {
     padding-bottom: 100px;
+}
+
+section#lang {
+  height: 670px;
 }
