@@ -8,17 +8,25 @@
     margin: -40px;
 }
 @media (min-width: 992px){
-.navbar-brand>img {
-    height: 100px;
-    margin: -40px;
-}
+    .navbar-brand>img {
+        height: 100px;
+        margin: -40px;
+    }
 }
 
 @media (min-width: 768px){
-.navbar-brand>img {
-    height: 100px;
-    margin: -40px;
-}
+    .navbar-brand>img {
+        height: 100px;
+        margin: -40px;
+    }
+    .row.lang-subnote{
+        margin-top: 550px;
+    }
+
+    .lang-subnote {
+      font-size: 19px;
+      text-align: center;
+    }
 }
 
 section#lang {
@@ -95,19 +103,27 @@ ul {
     font-size: 25px;
   }
   .lang1 {
-    font-size: 20px;
+    font-size: 15px;
   }
 
   .lang2 {
-    font-size: 20px;
+    font-size: 15px;
   }
 
   .lang3 {
-    font-size: 20px;
+    font-size: 15px;
   }
 
   section#lang {
     height: 500px;
+  }
+  .row.lang-subnote {
+      margin-top: 380px;
+  }
+
+  .lang-subnote {
+    font-size: 19px;
+    text-align: center;
   }
 
 }
