@@ -18,7 +18,7 @@ googleAnalytics = ""
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
   name = "Your Trusted Translations"
-  description = "Your description"
+  description = "Your Trusted Translation is a catalyst for providing quality and transparent translation services. It was founded on the simple business premise, to provide exquisite service that is clear and concise. Our team of professional linguist are all of different industry backgrounds and have expert level experience in diverse environments. Hence, why we at YTT are not only able to provide language services, but as well able to understand and communicate the industry lingo."
 
   # Link custom assets relative to /static
   custom_css = []
@@ -87,25 +87,25 @@ googleAnalytics = ""
     [[params.services.row.list]]
       icon = "fa-language"
       title = "Translations"
-      description = "We ensure the highest quality of translation with core values including accuracy, speed and confidentiality"
+      description = "We ensure the highest quality of translation with core values including accuracy, speed and confidentiality. We offer same-day translation(rushed), the standard, or pre-scheduled translation."
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa fa-headphones"
       title = "Interpretation"
-      description = "We offer a full range of professional interpreting services connecting you to highly trained and YTT certified interpreters for organizations to clearly communicate with every individual under any circumstance."
+      description = "We offer a full range of professional interpreting services connecting you to highly trained and YTT certified interpreters for organizations to clearly communicate with every individual under any circumstance. You can get an over the phone interpreter, video interpreter, or in person interpreter "
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-file-text-o"
       title = "Transcription"
-      description = "Our linguists are professionals, whom are well-experienced with transcribing all types of media, including tape, DVD, internet video/audio  with unsurpassed accuracy to deliver final transcription files in any format of your choosing. "
+      description = "Our linguists are professionals, whom are well-experienced with transcribing all types of media, including tape, DVD, internet video/audio  with unsurpassed accuracy to deliver final transcription files in any format of your choosing. You can get an audio transcription or a video transcription."
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-commenting-o"
       title = "Captioning/Subtitling"
-      description = "Our linguists are professionals, whom are well-experienced with transcribing all types of media, including tape, DVD, internet video/audio  with unsurpassed accuracy to deliver final transcription files in any format of your choosing. "
+      description = "Our linguists are professionals, whom are well-experienced with transcribing all types of media, including tape, DVD, internet video/audio  with unsurpassed accuracy to deliver final transcription files in any format of your choosing."
       url = "#"
   # Languages section
   [params.lang]
@@ -119,7 +119,7 @@ googleAnalytics = ""
     # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
-    title = "Industries"
+    title = "All Industries Are Welcome"
 
     [params.portfolio.modal]
       client = "Client"
@@ -246,13 +246,13 @@ She worked at Pied Piper for years until they went belly up."""
     # as an example the mailout plugin from caddy.
     # Provide the post URL for the form and depending on the provider
     # add some custom JS script to finish the implementation.
-    # postURL = "https://example.com/mailout/"
+    # postURL = "https://www.elformo.com/forms/3990a7cc-0f7e-4430-83d4-43e415e7b837"
 
     email = "huzi8014@gmail.com"
 
     # Success and error message overwrite for async contact form
-    #thanks = "Thank you for awesomely contacting us."
-    #error = "Message could not be send. Please contact us at mail@example.com instead."
+    thanks = "Thank you for awesomely contacting us."
+    error = "Message could not be send. Please contact us at huz@gmail.com instead."
 
     # 'warning' defines error messages for invalid inputs
     [params.contact.form.name]
@@ -291,4 +291,4 @@ She worked at Pied Piper for years until they went belly up."""
 
     [[params.footer.social]]
       icon = "fa-facebook"
-      link = "https://www.facebook.com/pg/ytt.translation/about/"
+      link = "https://facebook.com/Your-Trusted-Translation-1706698949643188/"

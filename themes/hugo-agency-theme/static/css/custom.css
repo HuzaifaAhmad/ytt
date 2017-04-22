@@ -8,17 +8,25 @@
     margin: -40px;
 }
 @media (min-width: 992px){
-.navbar-brand>img {
-    height: 100px;
-    margin: -40px;
-}
+    .navbar-brand>img {
+        height: 100px;
+        margin: -40px;
+    }
 }
 
 @media (min-width: 768px){
-.navbar-brand>img {
-    height: 100px;
-    margin: -40px;
-}
+    .navbar-brand>img {
+        height: 100px;
+        margin: -40px;
+    }
+    .row.lang-subnote{
+        margin-top: 470px;
+    }
+
+    .lang-subnote {
+      font-size: 15px;
+      text-align: center;
+    }
 }
 
 section#lang {
@@ -43,7 +51,7 @@ section h3.section-subheading {
 
 .row.lang {
   position: relative;
-  font-size: 30px;
+  font-size: 25px;
   margin-bottom: 150px;
 }
 
@@ -95,19 +103,27 @@ ul {
     font-size: 25px;
   }
   .lang1 {
-    font-size: 20px;
+    font-size: 15px;
   }
 
   .lang2 {
-    font-size: 20px;
+    font-size: 15px;
   }
 
   .lang3 {
-    font-size: 20px;
+    font-size: 15px;
   }
 
   section#lang {
     height: 500px;
+  }
+  .row.lang-subnote {
+      margin-top: 280px;
+  }
+
+  .lang-subnote {
+    font-size: 12px;
+    text-align: center;
   }
 
 }
@@ -149,4 +165,8 @@ element.style {
 
 section#contact {
     padding-bottom: 100px;
+}
+
+.sub-subnote {
+  font-size: 10px;
 }
