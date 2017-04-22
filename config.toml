@@ -246,13 +246,13 @@ She worked at Pied Piper for years until they went belly up."""
     # as an example the mailout plugin from caddy.
     # Provide the post URL for the form and depending on the provider
     # add some custom JS script to finish the implementation.
-    # postURL = "https://www.elformo.com/forms/3990a7cc-0f7e-4430-83d4-43e415e7b837"
+    postURL = "https://www.elformo.com/forms/3990a7cc-0f7e-4430-83d4-43e415e7b837"
 
     email = "huzi8014@gmail.com"
 
     # Success and error message overwrite for async contact form
     thanks = "Thank you for awesomely contacting us."
-    error = "Message could not be send. Please contact us at huz@gmail.com instead."
+    error = "Message could not be send. Please contact us at huzi8014@gmail.com instead."
 
     # 'warning' defines error messages for invalid inputs
     [params.contact.form.name]
